@@ -24,4 +24,4 @@ To train model :
 
 To run code with trained model
 
-python run.py --env-name=<environment name>
+python run.py --env-name=<"environment name">
